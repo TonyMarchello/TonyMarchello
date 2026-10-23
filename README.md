@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyMarchello
 - 👀 I’m interested in Taco Bell.
-- 🌱 I'm in the middle of a job hunt.
+- 🌱 I have a job now.
 
 <!---
 AnthonyMarchello/AnthonyMarchello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
